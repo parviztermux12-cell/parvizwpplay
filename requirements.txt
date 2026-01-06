@@ -1,0 +1,7 @@
+aiogram==3.21.0
+firebase-admin==6.5.0
+python-dateutil==2.8.2
+psutil==5.9.6
+aiofiles==23.2.1
+asyncio
+python-dotenv==1.0.0
